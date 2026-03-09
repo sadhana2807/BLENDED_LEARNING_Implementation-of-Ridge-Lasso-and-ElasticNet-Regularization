@@ -53,7 +53,7 @@ mae=mean_absolute_error(y_test,predictions)
 r2=r2_score(y_test,predictions)
 results[name]={'MSE':mse,'MAE':mae,'R2 Score':r2}
 print('Name: K SADHANA')
-print('Reg. No:21222524')
+print('Reg. No:212225240128')
 for model_name,metrics in results.items():
     print(f"{model_name} -Mean Squared Error: {metrics['MSE']:.2f},R2 Score: {metrics['R2 Score']:.2f},Mean Absolute Error: {metrics['MAE']:.2f}")
 results_df=pd.DataFrame(results).T
