@@ -95,7 +95,8 @@ plt.show()
 ```
 
 ## Output:
-![Uploading image.png…]()
+<img width="1244" height="655" alt="Screenshot 2026-03-27 230119" src="https://github.com/user-attachments/assets/14a8f6eb-8dad-473b-942c-317152b98254" />
+
 
 
 ## Result:
